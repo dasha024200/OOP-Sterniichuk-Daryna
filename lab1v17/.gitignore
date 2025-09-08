@@ -1,0 +1,15 @@
+## Build
+bin/
+obj/
+TestResults/
+
+## VS/VSCode
+.vs/
+.vscode/
+*.user
+*.suo
+
+## OS/Cache
+.DS_Store
+*.log
+*.tmp
