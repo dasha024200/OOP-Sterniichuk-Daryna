@@ -1,0 +1,18 @@
+# lab21 – OCP, Strategy, Factory Method
+
+## Тема
+Реалізація гнучкої системи розрахунку вартості хмарного сховища з використанням
+патернів Strategy та Factory Method з дотриманням принципу Open/Closed Principle.
+
+## Варіант
+Варіант 7 – Хмарне сховище
+
+## Стратегії
+- PersonalPlan
+- BusinessPlan
+- EnterprisePlan
+- CloudArchivePlan (демонстрація OCP)
+
+## Технології
+- C#
+- .NET Console App

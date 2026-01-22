@@ -1,0 +1,10 @@
+namespace lab21
+{
+    public class EnterprisePlan : IStoragePlanStrategy
+    {
+        public decimal CalculateCost(int storageGb, int users)
+        {
+            return (storageGb * 0.3m) + (users * 20m) + 100m;
+        }
+    }
+}
