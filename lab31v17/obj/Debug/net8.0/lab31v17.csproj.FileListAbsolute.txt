@@ -1,0 +1,15 @@
+C:\Users\Дарина\OneDrive\Робочий стіл\OOP-Sterniichuk-Dasha\lab31v17\bin\Debug\net8.0\lab31v17.exe
+C:\Users\Дарина\OneDrive\Робочий стіл\OOP-Sterniichuk-Dasha\lab31v17\bin\Debug\net8.0\lab31v17.deps.json
+C:\Users\Дарина\OneDrive\Робочий стіл\OOP-Sterniichuk-Dasha\lab31v17\bin\Debug\net8.0\lab31v17.runtimeconfig.json
+C:\Users\Дарина\OneDrive\Робочий стіл\OOP-Sterniichuk-Dasha\lab31v17\bin\Debug\net8.0\lab31v17.dll
+C:\Users\Дарина\OneDrive\Робочий стіл\OOP-Sterniichuk-Dasha\lab31v17\bin\Debug\net8.0\lab31v17.pdb
+C:\Users\Дарина\OneDrive\Робочий стіл\OOP-Sterniichuk-Dasha\lab31v17\obj\Debug\net8.0\lab31v17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дарина\OneDrive\Робочий стіл\OOP-Sterniichuk-Dasha\lab31v17\obj\Debug\net8.0\lab31v17.AssemblyInfoInputs.cache
+C:\Users\Дарина\OneDrive\Робочий стіл\OOP-Sterniichuk-Dasha\lab31v17\obj\Debug\net8.0\lab31v17.AssemblyInfo.cs
+C:\Users\Дарина\OneDrive\Робочий стіл\OOP-Sterniichuk-Dasha\lab31v17\obj\Debug\net8.0\lab31v17.csproj.CoreCompileInputs.cache
+C:\Users\Дарина\OneDrive\Робочий стіл\OOP-Sterniichuk-Dasha\lab31v17\obj\Debug\net8.0\lab31v17.sourcelink.json
+C:\Users\Дарина\OneDrive\Робочий стіл\OOP-Sterniichuk-Dasha\lab31v17\obj\Debug\net8.0\lab31v17.dll
+C:\Users\Дарина\OneDrive\Робочий стіл\OOP-Sterniichuk-Dasha\lab31v17\obj\Debug\net8.0\refint\lab31v17.dll
+C:\Users\Дарина\OneDrive\Робочий стіл\OOP-Sterniichuk-Dasha\lab31v17\obj\Debug\net8.0\lab31v17.pdb
+C:\Users\Дарина\OneDrive\Робочий стіл\OOP-Sterniichuk-Dasha\lab31v17\obj\Debug\net8.0\lab31v17.genruntimeconfig.cache
+C:\Users\Дарина\OneDrive\Робочий стіл\OOP-Sterniichuk-Dasha\lab31v17\obj\Debug\net8.0\ref\lab31v17.dll
